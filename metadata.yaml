@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41259'
     url: http://www.gutenberg.org/2009/agents/41259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41609#Diary-of-John-Manningham
 gutenberg_issued: '2012-12-12'
 gutenberg_type: Text
 identifiers:
