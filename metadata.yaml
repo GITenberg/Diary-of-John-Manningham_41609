@@ -1,0 +1,38 @@
+_repo: Diary-of-John-Manningham_41609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manningham, John
+    deathdate: 1622
+    gutenberg_agent_id: '41258'
+    url: http://www.gutenberg.org/2009/agents/41258
+  editor:
+    agent_name: Bruce, John
+    birthdate: 1802
+    deathdate: 1869
+    gutenberg_agent_id: '41259'
+    url: http://www.gutenberg.org/2009/agents/41259
+description: ''
+gutenberg_issued: '2012-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41609'
+  lccn: a17001264
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- James I, 1603-1625 -- Sources'
+- !lcsh 'Lawyers -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Sources'
+- !lcsh 'Lawyers -- Great Britain -- Diaries'
+- !lcsh 'Manningham, John, -1622'
+- !lcsh 'London (England) -- Social life and customs -- Early works to 1800'
+- !lcc 'DA'
+title: "Diary of John Manningham\r\nOf the Middle Temple, and of Bradbourne, Kent,\
+  \ Barrister‑at‑Law, 1602-1603"
+url: http://www.gutenberg.org/ebooks/41609
